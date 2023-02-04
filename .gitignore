@@ -2,3 +2,4 @@ myvenv/*
 *.zip
 *.pdf
 
+.DS_Store
